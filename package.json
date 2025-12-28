@@ -1,0 +1,22 @@
+{
+  "name": "generate-inventions-report",
+  "version": "1.0.0",
+  "description": "Generate a report suitable for reporting independent Inventions to jobs after leaving, if required by the contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strugee/generate-inventions-report.git"
+  },
+  "author": "AJ Jordan <alex@strugee.net>",
+  "license": "GPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/strugee/generate-inventions-report/issues"
+  },
+  "homepage": "https://github.com/strugee/generate-inventions-report#readme",
+  "dependencies": {
+    "octokit": "^5.0.5"
+  }
+}
